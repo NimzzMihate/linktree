@@ -1,9 +1,9 @@
 # 🚀 Nimzz OS v5.5 - Personal Terminal Portfolio
 
 <div align="center">
-  <img src="src/pfp.jpg" alt="Muhammad Na'im" width="150" style="border-radius: 50%; border: 3px solid #00ff41;">
+  <img src="src/pfp.jpg" alt="Nimzz" width="150" style="border-radius: 50%; border: 3px solid #00ff41;">
   
-  <h1>Muhammad Na'im</h1>
+  <h1>Nimzz</h1>
   <p><i>SMK TKJ Student | Coding Enthusiast | Alight Motion Editor</i></p>
 
   ![Version](https://img.shields.io/badge/Version-5.5.0-green-style?style=for-the-badge)
@@ -15,7 +15,7 @@
 ## 👤 About Me
 Selamat datang di **Nimzz OS**, sebuah landing page interaktif bertema *Hacker/Terminal*. Saya adalah seorang siswa SMK jurusan TKJ yang hobi mengoprek kode dan melakukan editing video di Alight Motion.
 
-* **Nama:** Muhammad Na'im
+* **Nama:** Nimzz
 * **Kelas:** X (10) SMK
 * **Jurusan:** Teknik Komputer dan Jaringan (TKJ)
 * **Keahlian:** Frontend Web Development & Motion Graphics
